@@ -1,0 +1,32 @@
+{
+  "name": "randomrush",
+  "version": "1.0.0",
+  "description": "A Discord helper for a Dragon Ball Legends community mod.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeCitronVert/randomrush.git"
+  },
+  "keywords": [
+    "discord",
+    "dbl",
+    "dragonballlegends",
+    "random"
+  ],
+  "author": "Le Citron Vert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeCitronVert/randomrush/issues"
+  },
+  "homepage": "https://github.com/LeCitronVert/randomrush#readme"
+}
